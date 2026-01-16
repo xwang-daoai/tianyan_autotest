@@ -19,3 +19,5 @@
 - `REQUEST_TIMEOUT_SECONDS` (default `10`)
 
 ## Run
+cd smoke_tests
+python smoke_test.py
